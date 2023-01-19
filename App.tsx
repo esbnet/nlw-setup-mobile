@@ -1,4 +1,5 @@
 import { StatusBar } from 'react-native';
+import './src/lib/dayjs';
 
 import {
   Inter_400Regular,
